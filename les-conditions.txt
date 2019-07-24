@@ -1,0 +1,9 @@
+1- Team Captain America
+2- vous êtes mineur
+3- vous êtes majeur
+4- C'est mon chat
+5- C'est mon chat
+6- Jette moi ça !!!
+7- Merci !!! Ca me fait trop plaisir !
+8- animal = "chat" et couleur = "gris" Ou animal = "chient" et couleur = "marron"
+9- Si animal = "Chat" et couleur "gris" ou couleur = "Marron"
